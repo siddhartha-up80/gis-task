@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "name": "Discussion 1",
+    "sector": "Sector 1",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "likes": 2000,
+    "views": 2000,
+    "comments": 2000,
+    "time": "2 min ago",
+    "avatar": "https://github.com/shadcn.png"
+  },
+  {
+    "id": 2,
+    "name": "Discussion 2",
+    "sector": "Sector 2",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "likes": 2000,
+    "views": 2000,
+    "comments": 2000,
+    "time": "2 min ago",
+    "avatar": "https://github.com/shadcn.png"
+  },
+  {
+    "id": 3,
+    "name": "Discussion 3",
+    "sector": "Sector 3",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "likes": 2000,
+    "views": 2000,
+    "comments": 2000,
+    "time": "2 min ago",
+    "avatar": "https://github.com/shadcn.png"
+  },
+  {
+    "id": 4,
+    "name": "Discussion 4",
+    "sector": "Sector 4",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "likes": 2000,
+    "views": 2000,
+    "comments": 2000,
+    "time": "2 min ago",
+    "avatar": "https://github.com/shadcn.png"
+  }
+]
